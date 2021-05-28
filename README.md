@@ -6,4 +6,4 @@ Summary of Project Process:  https://docs.google.com/document/d/1l5bQCfmeHU6pMhL
 
 Summary and Link to Project Website:  https://credit-card-fraud-detection-ml.herokuapp.com/
 
-Link to Demonstration Day Presenation: https://docs.google.com/presentation/d/1bYEs9bpe5Mtjop8wKy24Dzcu4qdYyoqG/edit#slide=id.p1
+Link to Demonstration Day Presentation: https://docs.google.com/presentation/d/1bYEs9bpe5Mtjop8wKy24Dzcu4qdYyoqG/edit#slide=id.p1
